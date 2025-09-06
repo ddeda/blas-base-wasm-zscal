@@ -193,7 +193,7 @@ mod.initializeSync();
 
 #### zscal.Module.prototype.main( N, ap, xp, sx )
 
-Scales values from `x` by `alpha` .
+Scales values from `x` by `alpha`.
 
 <!-- eslint-disable node/no-sync -->
 
